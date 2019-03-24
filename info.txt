@@ -2,3 +2,32 @@ Name: Eyal Cohen
 ID: 308347244
 Group: 05
 
+commit 7eb2939f42400b7e3d4ec01ad44b14477b72ad62
+Author: Eyal <eyalcohen308@gmail.com>
+Date:   Sun Mar 24 13:52:37 2019 +0200
+
+    added docs to the funcions
+
+commit f9d1a5e820d3ccf89671882702c4d4099d8b615b
+Author: Eyal <eyalcohen308@gmail.com>
+Date:   Sun Mar 24 13:44:16 2019 +0200
+
+    added docs to the funcions
+
+commit 0872f1d6a413ae1a9a887791681f4b4a19ef6b7c
+Author: Eyal <eyalcohen308@gmail.com>
+Date:   Sun Mar 24 13:37:57 2019 +0200
+
+    added docs to the funcions
+
+commit 38197543fdeafecc00ff0bb9d658d0ec4d3dfd20
+Author: Eyal <eyalcohen308@gmail.com>
+Date:   Sun Mar 24 13:22:04 2019 +0200
+
+    added docs to the funcions
+
+commit 7b9265e6bc53dfaa48a25bd84b18ee7740951c2e
+Author: Eyal <eyalcohen308@gmail.com>
+Date:   Sun Mar 24 12:58:31 2019 +0200
+
+    my first commit

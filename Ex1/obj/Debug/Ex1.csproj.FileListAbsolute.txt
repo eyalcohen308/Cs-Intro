@@ -1,0 +1,7 @@
+C:\Users\eyalc\source\repos\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\eyalc\source\repos\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\eyalc\source\repos\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\eyalc\source\repos\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\eyalc\source\repos\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\eyalc\source\repos\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\eyalc\source\repos\Ex1\Ex1\obj\Debug\Ex1.pdb
